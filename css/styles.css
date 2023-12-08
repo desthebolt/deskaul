@@ -1,5 +1,5 @@
 body {
-  background: #FFFFFF, url(/Users/desthebolt/Documents/gulproast/media/gulp-bottom-beans.jpg) repeat-x bottom;
+  background: #FFFFFF, url(../media/gulp-bottom-beans.jpg) repeat-x bottom;
     margin: 0px;
     padding: 0px;
   }
